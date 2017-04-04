@@ -8,10 +8,8 @@ function INC_CONTRATO
 return .t.
 function ALT_CONTRATO
 return .t.
-function CON_CONTRATO
-return .t.
-function EXC_CONTRATO
-return .t.
+//function CON_CONTRATO
+
 function REA_TARIFA
 return .t.
 function PRINT_CAPA
