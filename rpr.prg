@@ -10,8 +10,8 @@ function ALT_CONTRATO
 return .t.
 //function CON_CONTRATO
 
-function REA_TARIFA
-return .t.
+//function REA_TARIFA
+//return .t.
 function PRINT_CAPA
 return .t.
 function RPR_PREV_R
